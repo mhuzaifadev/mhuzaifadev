@@ -29,20 +29,22 @@
 <table width = "100">
   <tr>
     <td align='center' width="190">
-      <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="30" height="30">
+      <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
     </td>
-    <td align ="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
+    <td align ="center" width="190">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png" width="60" height="60">
     </td>
-    <td align ="center">
-      <img src="https://pytorch.org/assets/images/pytorch-logo.png">
+    <td align ="center" width="190">
+      <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60" height="60">
     </td>
-    <td align ="center">
-      <img src="https://pbs.twimg.com/media/E00JLeSVkAIY5Yf.png">
+    <td align ="center" width="190">
+      <img src="https://pbs.twimg.com/media/E00JLeSVkAIY5Yf.png" width="60" height="60">
     </td>
-    <td align ="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png">
+    <td align ="center" width="190">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="60" height="60">
     </td>
+  </tr>
+  <tr>
     <td align ="center">
       <img src="https://insidehpc.com/wp-content/uploads/2014/09/CUDANNLOGO.png">
     </td>
@@ -58,6 +60,8 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
+  </tr>
+  <tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
     </td>
@@ -73,7 +77,8 @@
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png">
     </td>
-    
+  </tr>
+  </table>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
