@@ -1,7 +1,7 @@
 # Hi there, I'm M. Huzaifa 👋
 
 ### AI Developer & Researcher | Full Stack Developer
-
+ ![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
 
 - 🔭 I’m currently working with Tensorflow & PyTorch in GANs, Lamda, BERT and State of the Art AI Algorithms
 - 🌱 I’m currently learning Azure, AWS, GCP Cloud Infrastructure Designing & Deployment, ROS, Django, State of the Art AI
@@ -14,7 +14,7 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
-![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
+
 
 <p align="center">
 <a href="https://github.com/mhuzaifadev">
