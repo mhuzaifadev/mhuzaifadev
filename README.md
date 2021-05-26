@@ -12,9 +12,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
@@ -24,6 +21,13 @@
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifadev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
+
+## My Activities :mailbox_with_mail:
+
+| BOOTCAMPS & SESSIONS :tv: | 
+| :--- |
+| [Machine Learning: Zero to Hero 30 days](https://github.com/mhuzaifadev/mlzero_to_hero) |
+| [Deep Learning Master Class](https://github.com/mhuzaifadev/deeplearningmasterclass) |
 
 <table width = "100">
   <tr>
