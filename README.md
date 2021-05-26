@@ -3,7 +3,7 @@
 ### AI Developer & Researcher | Full Stack Developer
 
 
-- 🔭 I’m currently working with Tensorflow & PyTorch in GANs, Lamda, BERT and State of te Art AI Algorithms
+- 🔭 I’m currently working with Tensorflow & PyTorch in GANs, Lamda, BERT and State of the Art AI Algorithms
 - 🌱 I’m currently learning Azure, AWS, GCP Cloud Infrastructure Designing & Deployment, ROS, Django, State of the Art AI
 - 👯 I’m looking to collaborate on with other content creators and developers
 - 💬 Ask me about AI
