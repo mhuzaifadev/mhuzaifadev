@@ -9,7 +9,7 @@
 - 💬 Ask me about Artificial Intelligence
 - ✉️ Reach me at mhuzaifadev@gmail.com for contact
 - 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Enrolling in MS Computer Science or AI, 100 Day Code Challenge, 10 Mega Workshops (Free)
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
