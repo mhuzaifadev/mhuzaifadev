@@ -1,4 +1,4 @@
-# Hi there, I'm M. Huzaifa 👋
+# Hi there, I'm M. Huzaifa Shahbaz👋
 
 ### AI Developer & Researcher | Full Stack Developer
  ![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
