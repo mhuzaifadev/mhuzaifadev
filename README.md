@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Azure, AWS, GCP Cloud Infrastructure Designing & Deployment, ROS, Django, State of the Art AI
 - 👯 I’m looking to collaborate on with other content creators and developers
 - 💬 Ask me about Artificial Intelligence
-- ✉️ Reach me at mhuzaifadev@gmail.com for contact
+- ✉️ Reach me at mhuzaifadev@gmail.com for contact 
 - 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
 - 🥅 2023 Goals: Enrolling in MS Computer Science or AI in one of the prestegious universities, 100 Day Code Challenge, 10 Mega Workshops (Free)
 
