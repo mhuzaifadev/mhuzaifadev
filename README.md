@@ -9,7 +9,7 @@
 - 💬 Ask me about Artificial Intelligence
 - ✉️ Reach me at mhuzaifadev@gmail.com for contact 
 - 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
-- 🥅 2023 Goals: Getting a remote job at startup or AI in one of the prestegious universities, 100 Day Code Challenge, 10 Mega Workshops (Free)
+- 🥅 2023 Goals: Getting a remote job at startup and enrolled in MS in AI or CS in one of the prestegious universities, 100 Day Code Challenge, 10 Mega Workshops (Free)
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2> 
