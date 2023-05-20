@@ -4,14 +4,14 @@
  ![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
 
 
-- 🔭 Currently delving into the captivating world of AI with TensorFlow 2 & PyTorch 2, creating mind-boggling GANs, GPT-4, and cutting-edge AI algorithms 🚀🧠
-- 🌱 Learning to design and deploy Cloud Infrastructure on Azure, AWS, GCP, while tinkering with Robotics and the latest AI advancements 🌩️💻
-- 📚 Expanding my horizons with Language Models like GPT, LaMDA, PaLM, and MusicLM—immersing myself in the creative possibilities they offer 📝🎶
-- 👯 Seeking exciting collaborations with fellow content creators and developers to push the boundaries of innovation 🤝🌟
-- 💬 Feel free to ask me anything about Artificial Intelligence—I'm always up for a captivating discussion 🤖💡
-- ✉️ Reach me at mhuzaifadev@gmail.com—I'm just a click away! Let's connect and create something amazing together 📩🌐
+- 🔭 Exploring AI with **TensorFlow 2 & PyTorch 2**, creating mind-boggling **GANs, GPT-4**, and cutting-edge AI algorithms 🚀🧠
+- 🌱 Learning Cloud Infrastructure on **Azure, AWS, GCP**, tinkering with **Robotics** and the latest AI advancements 🌩️💻
+- 📚 Expanding horizons with Language Models like **GPT, LaMDA, PaLM, and MusicLM**—immersing in creative possibilities 📝🎶
+- 👯 Seeking collaborations with content creators and developers to push boundaries of innovation 🤝🌟
+- 💬 **Ask me anything about Artificial Intelligenc**e—I'm always up for a captivating discussion 🤖💡
+- ✉️ Reach me at **mhuzaifadev@gmail.com**—I'm just a click away! Let's connect and create something amazing 📩🌐
 - 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
-- 🥅 **2023 Goals:** Secure a remote job at a startup, pursue an MS in AI or CS at a prestigious university, conquer the 100 Day Code Challenge, and attend 10 mind-blowing Mega Workshops (all free!) 💪🎯📚
+- 🥅 **2023 Goals:** Secure a remote job, **pursue MS in AI or CS,** conquer 100 Day Code Challenge, attend 10 Mega Workshops (free!) 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
 
