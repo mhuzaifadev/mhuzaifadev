@@ -1,15 +1,18 @@
 # Hi there, I'm M. Huzaifa Shahbaz👋
 
-### AI Developer & Researcher | Full Stack Developer
+### **AI Developer & Researcher | Full Stack Developer**
  ![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
 
-- 🔭 I’m currently working with Tensorflow & PyTorch in GANs, GPT-4 and State of the Art AI Algorithms
-- 🌱 I’m currently learning Azure, AWS, GCP Cloud Infrastructure Designing & Deployment, ROS, Django, State of the Art AI
-- 👯 I’m looking to collaborate on with other content creators and developers
-- 💬 Ask me about Artificial Intelligence
-- ✉️ Reach me at mhuzaifadev@gmail.com for contact 
-- 💼 LinkedIn: https://linkedin.com/in/mhuzaifadev
-- 🥅 2023 Goals: Getting a remote job at startup and enrolled in MS in AI or CS in one of the prestegious universities, 100 Day Code Challenge, 10 Mega Workshops (Free)
+
+- 🔭 Currently delving into the captivating world of AI with TensorFlow 2 & PyTorch 2, creating mind-boggling GANs, GPT-4, and cutting-edge AI algorithms 🚀🧠
+- 🌱 Learning to design and deploy Cloud Infrastructure on Azure, AWS, GCP, while tinkering with Robotics and the latest AI advancements 🌩️💻
+- 📚 Expanding my horizons with Language Models like GPT, LaMDA, PaLM, and MusicLM—immersing myself in the creative possibilities they offer 📝🎶
+- 👯 Seeking exciting collaborations with fellow content creators and developers to push the boundaries of innovation 🤝🌟
+- 💬 Feel free to ask me anything about Artificial Intelligence—I'm always up for a captivating discussion 🤖💡
+- ✉️ Reach me at mhuzaifadev@gmail.com—I'm just a click away! Let's connect and create something amazing together 📩🌐
+- 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
+- 🥅 **2023 Goals:** Secure a remote job at a startup, pursue an MS in AI or CS at a prestigious university, conquer the 100 Day Code Challenge, and attend 10 mind-blowing Mega Workshops (all free!) 💪🎯📚
+- 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
 
 <h2><i>⚙️ GitHub Analytics</i></h2> 
