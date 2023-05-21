@@ -23,6 +23,9 @@
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
 
+<div align ="center"><h2><i>📢 My Bootcamps & Sessions :mailbox_with_mail: </h2><i></div>
+    
+  
     <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
         <a href="https://github.com/mhuzaifadev">
             <img src="https://raw.github.com/mhuzaifadev/mhuzaifadev/main/Python%20Essentials.png" alt="Python Essentials" style="width: 30%; object-fit: cover;">
