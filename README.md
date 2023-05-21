@@ -182,7 +182,9 @@
     </td>
   </tr>
   </table> -->
-
+<center>  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31czr5mtydxq65i526uxt7stqqre&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31czr5mtydxq65i526uxt7stqqre&redirect=true)
+</center>
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
