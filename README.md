@@ -42,7 +42,7 @@
 | [Machine Learning: Zero to Hero 30 days](https://github.com/mhuzaifadev/mlzero_to_hero) |
 | [Deep Learning Master Class](https://github.com/mhuzaifadev/deeplearningmasterclass) |
 
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Tech Stack Profile of M. Huzaifa"></a>
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png](https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/mhuzaifadev-tech-stack-profile.png)" alt="Tech Stack Profile of M. Huzaifa"></a>
 
 <!-- <table width = "100">
   <tr>
