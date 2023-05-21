@@ -23,7 +23,7 @@
 
 
 
-<h2><i>⚙️ GitHub Analytics</i></h2> 
+<center><h2><i>⚙️ GitHub Analytics</i></h2> </center>
 
 
 
