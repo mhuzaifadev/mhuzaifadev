@@ -25,7 +25,7 @@
 <br><br>
  <div align ="center"><h2><i>👨‍💻 Tech Stack: </h2><i></div>
 <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/mhuzaifadev-tech-stack-profile.png">
-<br>
+<br><br>
 <div align ="center"><h2><i>📢 My Bootcamps & Sessions :mailbox_with_mail: </h2><i></div>
     
   
@@ -40,7 +40,7 @@
         <img src="https://raw.github.com/mhuzaifadev/mhuzaifadev/main/Deep%20Learning%20MasterClass.png" alt="Deep Learning MasterClass" style="width: 30%; object-fit: cover;">
     </a>
 </div>
-
+<br>
 
 <div align ="center"><h2><i>⚙️ GitHub Analytics</i></h2> </div>
 
