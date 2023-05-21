@@ -23,9 +23,17 @@
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
 
-
-<br>
-
+    <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+        <a href="https://github.com/mhuzaifadev">
+            <img src="https://raw.github.com/mhuzaifadev/mhuzaifadev/main/Python%20Essentials.png" alt="Python Essentials" style="width: 30%; object-fit: cover;">
+        </a>
+        <a href="https://github.com/mhuzaifadev">
+            <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/ML%20Zero%20to%20Hero.png" alt="ML Zero to Hero" style="width: 30%; object-fit: cover;">
+        </a>
+        <a href="https://github.com/mhuzaifadev">
+            <img src="https://raw.github.com/mhuzaifadev/mhuzaifadev/main/Deep%20Learning%20MasterClass.png" alt="Deep Learning MasterClass" style="width: 30%; object-fit: cover;">
+        </a>
+    </div>
 
 
 <div align ="center"><h2><i>⚙️ GitHub Analytics</i></h2> </div>
