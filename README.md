@@ -42,9 +42,9 @@
 | [Machine Learning: Zero to Hero 30 days](https://github.com/mhuzaifadev/mlzero_to_hero) |
 | [Deep Learning Master Class](https://github.com/mhuzaifadev/deeplearningmasterclass) |
 
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Tech Stack Profile of M. Huzaifa"></a>
 
-
-<table width = "100">
+<!-- <table width = "100">
   <tr>
     <td align='center'>
       <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height="100"></a>
@@ -121,7 +121,7 @@
       <a href="https://www.tableau.com/"><img src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" alt="Tableau" height="100"></a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
