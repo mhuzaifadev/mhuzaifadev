@@ -3,8 +3,10 @@
 
 <div align ="center"><h3><b> AI Developer & Researcher | Full Stack Developer </h3></b></div>
 
-
- ![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
+<div align = "center">
+<img src = "https://komarev.com/ghpvc/?username=mhuzaifadev">
+</div>
+<hr>
 
 
 
