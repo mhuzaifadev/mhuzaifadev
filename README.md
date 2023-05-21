@@ -45,7 +45,11 @@
 
 <div align ="center"><h2><i>⚙️ GitHub Analytics</i></h2> </div>
 
-<div align = "center"><img src = "https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height = "90em"></div>
+<div align = "center">
+ <img src = "https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height = "90em">
+ <img src = "https://octodex.github.com/images/daftpunktocat-guy.gif" height = "90em">
+
+ </div>
 <p align="center">
 <a href="https://github.com/mhuzaifadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhuzaifadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
