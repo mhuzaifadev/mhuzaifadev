@@ -1,7 +1,11 @@
-# Hi there, I'm M. Huzaifa Shahbaz👋
+<div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz👋 </h1></b></div>
 
-### **AI Developer & Researcher | Full Stack Developer**
+
+<div align ="center"><h3><b> AI Developer & Researcher | Full Stack Developer </h3></b></div>
+
+
  ![](https://komarev.com/ghpvc/?username=mhuzaifadev&style=flat-square)
+
 
 
 
@@ -23,7 +27,7 @@
 
 
 
-<center><h2><i>⚙️ GitHub Analytics</i></h2> </center>
+<div align ="center"><h2><i>⚙️ GitHub Analytics</i></h2> </div>
 
 
 
@@ -35,13 +39,24 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifadev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
-## My Activities :mailbox_with_mail:
+<div align ="center"><h2><i>📢 My Activities :mailbox_with_mail: </h2><i></div>
 
-| BOOTCAMPS & SESSIONS :tv: | 
-| :--- |
-| [Machine Learning: Zero to Hero 30 days](https://github.com/mhuzaifadev/mlzero_to_hero) |
-| [Deep Learning Master Class](https://github.com/mhuzaifadev/deeplearningmasterclass) |
+ 
+ <table style="border-collapse: collapse; width: 100%;">
+  <tr style="border-bottom: 1px solid #ccc;">
+    <th style="padding: 8px; text-align: left; background-color: #f2f2f2;">📺 BOOTCAMPS &amp; WORKSHOPS</th>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><a href="https://github.com/mhuzaifadev/mlzero_to_hero">Machine Learning: Zero to Hero 30 days</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px;"><a href="https://github.com/mhuzaifadev/deeplearningmasterclass">Deep Learning Master Class</a></td>
+  </tr>
+</table>
 
+<br>
+ 
+ <div align ="center"><h2><i>👨‍💻 Tech Stack: </h2><i></div>
 <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/mhuzaifadev-tech-stack-profile.png">
 
 <!-- <table width = "100">
