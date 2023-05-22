@@ -1,14 +1,11 @@
 <div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz👋 </h1></b></div>
 
 
-<div align ="center"><h2><b> AI Developer & Researcher | Full Stack Developer </h2></b></div>
 
 <div align = "center">
 <img src = "https://komarev.com/ghpvc/?username=mhuzaifadev">
 </div>
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
-
+<br>
 
 
 
@@ -22,7 +19,8 @@
 - 🥅 **2023 Goals:** Secure a remote job, **pursue MS in AI or CS,** conquer 100 Day Code Challenge, attend 10 Mega Workshops (free!) 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
-<br><br>
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+<br>
  <div align ="center"><h2><i>👨‍💻 Tech Stack: </h2><i></div>
 <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/mhuzaifadev-tech-stack-profile.png">
 <br><br>
