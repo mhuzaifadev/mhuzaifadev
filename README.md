@@ -20,8 +20,9 @@
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
 <br>
-<img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&no-bg=true&rank=-?" width = "100%">
-
+ <div align ="center">
+<img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&no-bg=true&rank=-?" width = "90%">
+</div>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <br>
  <div align ="center"><h2><i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack: </h2><i></div>
