@@ -89,7 +89,7 @@
  
 <br>
 
-<div align ="center"><h2><b>  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="40"> Connect With Me</b></h2></div>
+<div align ="center"><h2><b>  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="60"> Connect With Me</b></h2></div>
 <p align="center">
 <a href="https://www.mhuzaifa.com"><img src="https://img.shields.io/badge/-mhuzaifa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/-M%20Huzaifa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
