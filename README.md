@@ -58,7 +58,8 @@
 <div align ="center"><h2><i>📚 Publications </h2><i></div>
 
 <div align = "center">
-<table style="width: 100%; border-collapse: collapse;">
+
+<table style="width: 70%; border-collapse: collapse;">
     <tr>
         <th style="padding: 10px; background-color: #f2f2f2;">Publication Type</th>
         <th style="padding: 10px; background-color: #f2f2f2;">Title</th>
@@ -88,7 +89,7 @@
  
 
  
-
+<br>
 
 <div align ="center"><h2><b> 🤝🏻 &nbsp;Connect with Me </h2></b></div>
 
