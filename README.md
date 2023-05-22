@@ -46,10 +46,10 @@
 
 <p align="center">
 <a href="https://github.com/mhuzaifadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhuzaifadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhuzaifadev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mhuzaifadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mhuzaifadev&layout=compact&langs_count=8&theme=algolia"/>
 </a><br><img src = "https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height = "90em">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifadev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhuzaifadev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
  <img src = "https://octodex.github.com/images/daftpunktocat-guy.gif" height = "90em">
 </p>
 <br><br>
