@@ -1,6 +1,6 @@
 <div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz👋 </h1></b></div>
 
-
+<div align ="center"><h3><b> Developer, Researcher & Innovator </h3></b></div>
 
 <div align = "center">
 <img src = "https://komarev.com/ghpvc/?username=mhuzaifadev">
@@ -18,6 +18,9 @@
 - 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
 - 🥅 **2023 Goals:** Secure a remote job, **pursue MS in AI or CS,** conquer 100 Day Code Challenge, attend 10 Mega Workshops (free!) 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
+
+<br>
+<img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&no-bg=true&rank=-?" width = "100%">
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <br>
@@ -71,7 +74,7 @@
         <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10064663" style="color: #007bff; text-decoration: none;">Enhancing Contextualized GNNs for Multimodal Emotion Recognition: Improving Accuracy and Robustness (IMTIC'23 Pakistan)</a></td>
     </tr>
     <tr>
-        <td style="padding: 10px; border-bottom: 1px solid #ddd;">EBook</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">E-Book</td>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">
             <a href="https://www.amazon.com/PyKids-2023-Muhammad-Huzaifa-Shahbaz-ebook/dp/B0C1YBFWZV" style="color: #007bff; text-decoration: none;">PyKids 2023: Python For Kids</a><br>
             ISBN: 9798390752586
