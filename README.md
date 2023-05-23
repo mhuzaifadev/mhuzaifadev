@@ -22,7 +22,7 @@
 
 <br>
  <div align ="center">
-<img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&no-bg=true&rank=-?" width = "90%">
+<img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&margin-h=15&no-bg=true&column=4&rank=-?" width = "60%">
 </div>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <br>
