@@ -33,13 +33,13 @@
     
 <div align = "center">
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <a href="https://github.com/mhuzaifadev">
+    <a href="">
         <img src="https://raw.github.com/mhuzaifadev/mhuzaifadev/main/Python%20Essentials.png" alt="Python Essentials" style="width: 30%; object-fit: cover;">
     </a>
-    <a href="https://github.com/mhuzaifadev">
+    <a href="https://github.com/mhuzaifadev/machine-learning_zero-to-hero">
         <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/ML%20Zero%20to%20Hero.png" alt="ML Zero to Hero" style="width: 30%; object-fit: cover;">
     </a>
-    <a href="https://github.com/mhuzaifadev">
+    <a href="https://github.com/mhuzaifadev/deep-learning-masterclass">
         <img src="https://raw.github.com/mhuzaifadev/mhuzaifadev/main/Deep%20Learning%20MasterClass.png" alt="Deep Learning MasterClass" style="width: 30%; object-fit: cover;">
     </a>
 </div>
