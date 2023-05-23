@@ -1,4 +1,4 @@
-<div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz👋 </h1></b></div>
+<div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b></div>
 
 <div align ="center"><h3><b> Developer, Researcher & Innovator </h3></b></div>
 
