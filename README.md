@@ -22,7 +22,7 @@
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
 <br>
- <div align ="center">
+ <div align = "center">
 <img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&margin-h=15&no-bg=true&column=4&rank=-?" width = "67%">
 </div>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
