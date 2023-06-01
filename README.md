@@ -22,6 +22,7 @@
 - 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
 - 🥅 **2023 Goals:** Secure a remote job, **enroll in MS in AI or CS,** conquer 100 Day Code Challenge, attend 10 Mega Workshops (free!) 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
+- Fun fact: My 75% Repositories are private. Because it's opensource but in experimental deployments. 
 
 <br>
  <div align = "center">
