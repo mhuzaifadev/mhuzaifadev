@@ -6,7 +6,7 @@
 <img src = "https://komarev.com/ghpvc/?username=mhuzaifadev">
 </div>
 
-<!-- Today is June 01 :D :X -->
+
 
 <br>
 
