@@ -11,7 +11,7 @@
 <br>
 
 
-<!-- hhh -->
+<!-- Sometimes I do crazy stuff like sleeping all day or playing game-->
 
 - 🔭 Exploring AI with **TensorFlow 2 & PyTorch 2**, creating mind-boggling **GANs, GPT-4**, and cutting-edge AI algorithms 🚀🧠
 - 🌱 Learning Cloud Infrastructure on **Azure, AWS, GCP**, tinkering with **Robotics** and the latest AI advancements 🌩️💻
