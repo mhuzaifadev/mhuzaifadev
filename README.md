@@ -71,7 +71,11 @@
         <th style="padding: 10px; background-color: #f2f2f2;">Publication Type</th>
         <th style="padding: 10px; background-color: #f2f2f2;">Title</th>
     </tr>
-    <tr>
+  <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Journal Articles</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0<br>Accepted: IJESDF-146796</a></td>
+    </tr>   
+  <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10064663" style="color: #007bff; text-decoration: none;">Analyzing the Classification Performance of DenseNet121 on Pre-processsed MIAS Dataset (GCWOT'23 Spain)</a></td>
     </tr>
