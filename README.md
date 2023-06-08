@@ -73,7 +73,7 @@
     </tr>
   <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Journal Articles</td>
-        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0<br>Accepted: IJESDF-146796</a></td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0</a><br>Accepted: IJESDF-146796</td>
     </tr>   
   <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
