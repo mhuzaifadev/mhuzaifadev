@@ -92,7 +92,7 @@
     </tr>
     <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Thesis</td>
-        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://figshare.com/articles/thesis/Mammory_-_Breast_Cancer_Detection_using_AI_on_Mammography_Ultrasonography_-_FYP_Report/22340170" style="color: #007bff; text-decoration: none;">Mammory - Breast Cancer Detection using AI on Mammography & Ultrasonography</a></td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://figshare.com/articles/thesis/Mammory_-_Breast_Cancer_Detection_using_AI_on_Mammography_Ultrasonography_-_FYP_Report/22340170" style="color: #007bff; text-decoration: none;">Mammory - Breast Cancer Detection using AI on Mammography & Ultrasonography</a><br> Software Engg Depart. SSUET</td>
     </tr>
 </table>
 </div>
