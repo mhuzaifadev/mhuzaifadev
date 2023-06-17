@@ -10,7 +10,7 @@
 
 
 <br>
-<!--Need a remote job, please. Deadline June 20-->
+
 
 
 - 🔭 Exploring AI with **TensorFlow 2 & PyTorch 2**, creating mind-boggling **GANs, GPT-4**, and cutting-edge AI algorithms 🚀🧠
