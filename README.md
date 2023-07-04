@@ -20,7 +20,7 @@
 - 💬 **Ask me anything about Artificial Intelligenc**e—I'm always up for a captivating discussion 🤖💡
 - ✉️ Reach me at **mhuzaifadev@gmail.com**—I'm just a click away! Let's connect and create something amazing 📩🌐
 - 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
-- 🥅 **2023 Goals:** Secure a remote job, **enroll in MS in CS or AI in one of the fineline universities in the United States, obtain 100% grant/scholarship,** conquer 100 Day Code Challenge and organize free mega events 💪🎯📚
+- 🥅 **2023 Goals:** Secure a remote job, **enroll in MS in CS or AI in one of the Fineline universities in the United States, obtain 100% grant/scholarship,** conquer 100 Day Code Challenge and organize free mega events 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 - Fun fact: Half of my Repositories are private - They're open source but in experimental deployments. 
 
@@ -29,9 +29,9 @@
 <img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&margin-h=15&no-bg=true&column=4&rank=-?" width = "67%">
 </div>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<br>
+<!-- <br>
  <div align ="center"><h2><i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack: </h2><i></div>
-<img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/mhuzaifadev-tech-stack-profile.png">
+<img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/mhuzaifadev-tech-stack-profile.png"> -->
 <br><br>
 <div align ="center"><h2><i>📢 My Bootcamps & Sessions :mailbox_with_mail: </h2><i></div>
     
