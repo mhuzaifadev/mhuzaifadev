@@ -24,6 +24,7 @@
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 - Fun fact: Half of my Repositories are private - They're open source but in experimental deployments. 
 
+
 <br>
  <div align = "center">
 <img src = "https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&margin-h=15&no-bg=true&column=6&rank=-C,-?" width = "67%">
