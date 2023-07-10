@@ -10,9 +10,6 @@
 
 
 <br>
-__
-
-
 
 - 🔭 Exploring AI with **TensorFlow & PyTorch**, creating mind-boggling **GANs, GPT-4**, and cutting-edge AI algorithms 🚀🧠
 - 🌱 Learning Cloud Infrastructure on **Azure, AWS, GCP**, tinkering with **Robotics** and the latest AI advancements 🌩️💻
