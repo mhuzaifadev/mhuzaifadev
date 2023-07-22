@@ -76,14 +76,15 @@
   <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Journal Articles</td>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0</a><br>Accepted: IJESDF-146796 (1751-9128,1751-911X)</td>
-    </tr>   
+    </tr>
+ 
+    <tr>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
+        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10178481" style="color: #007bff; text-decoration: none;">Enhancing Contextualized GNNs for Multimodal Emotion Recognition: Improving Accuracy and Robustness</a><br> (IMTIC'23 Pakistan)</td>
+    </tr>
   <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10064663" style="color: #007bff; text-decoration: none;">Analyzing the Classification Performance of DenseNet121 on Pre-processsed MIAS Dataset</a><br> (GCWOT'23 Spain)</td>
-    </tr>
-    <tr>
-        <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
-        <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10064663" style="color: #007bff; text-decoration: none;">Enhancing Contextualized GNNs for Multimodal Emotion Recognition: Improving Accuracy and Robustness</a><br> (IMTIC'23 Pakistan)</td>
     </tr>
     <tr>
         <td style="padding: 10px; border-bottom: 1px solid #ddd;">E-Book</td>
