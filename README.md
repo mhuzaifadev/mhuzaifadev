@@ -20,7 +20,7 @@
 - 💬 **Ask me anything about Artificial Intelligenc**e—I'm always up for a captivating discussion 🤖💡
 - ✉️ Reach me at **mhuzaifadev@gmail.com**—I'm just a click away! Let's connect and create something amazing 📩🌐
 - 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
-- 🥅 **2023 Goals:** Secure a remote job, **enroll in MS in CS or AI in one of the Fineline universities in the United States, obtain 100% grant/scholarship,** conquer 100 Day Code Challenge and organize free mega events 💪🎯📚
+- 🥅 **203 Goals:** Secure a remote job, **enroll in MS in CS or AI in one of the Fineline universities in the United States, obtain 100% grant/scholarship,** conquer 100 Day Code Challenge and organize free mega events 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 - Fun fact: Half of my Repositories are private - They're open source but in experimental deployments. 
 
