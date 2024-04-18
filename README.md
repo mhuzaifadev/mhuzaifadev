@@ -1,7 +1,8 @@
 <div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b></div>
 
 <div align ="center"><h3><b> Developer, Researcher & Entrepreneur </h3></b></div>
-
+ 
+<div align ="center"><h4><b> In relationship with Python & JS, raising a baby: [Transpify](https://transpify.com) </h4></b></div>
 
 <div align = "center">
 <img src = "https://komarev.com/ghpvc/?username=mhuzaifadev">
@@ -9,15 +10,10 @@
 
 
 
-
-
 <br>
 
-- 🔭 Exploring AI with **TensorFlow & PyTorch**, creating mind-boggling **GANs, GPT-4**, and cutting-edge AI algorithms 🚀🧠
-- 🌱 Learning Cloud Infrastructure on **Azure, AWS, GCP**, tinkering with **Robotics** and the latest AI advancements 🌩️💻
-- 📚 Expanding horizons with Language Models like **GPT, LaMDA, PaLM, and MusicLM**—immersing in creative possibilities 📝🎶
 - 👯 Seeking collaborations with content creators and developers to push boundaries of innovation 🤝🌟
-- 💬 **Ask me anything about Artificial Intelligenc**e—I'm always up for a captivating discussion 🤖💡
+- 💬 **Ask me anything about AI, Automation, Backend Systems**—I'm always up for an interesting discussion 🤖💡
 - ✉️ Reach me at **mhuzaifadev@gmail.com**—I'm just a click away! Let's connect and create something amazing 📩🌐
 - 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
 - 🥅 **2024 Goals:** Work 100 hours every week until [Transpify](https://transpify.com) calls out an Unicorn! 💪🎯📚
