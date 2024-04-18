@@ -2,7 +2,7 @@
 
 <div align ="center"><h3><b> Developer, Researcher & Entrepreneur </h3></b></div>
  
-<div align ="center"><h4><b> In relationship with Python & JS, raising a baby: [Transpify](https://transpify.com) </h4></b></div>
+<div align ="center"><h4><b> In relationship with Python & JS, raising a baby: [Transpify](https://transpify.com)</h4></b></div>
 
 <div align = "center">
 <img src = "https://komarev.com/ghpvc/?username=mhuzaifadev">
