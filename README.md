@@ -7,6 +7,19 @@
 </div>
 
 
+
+---
+
+- 👯 Seeking collaborations with content creators and developers to push boundaries of innovation 🤝🌟
+- 💬 **Ask me anything about AI, Automation, Backend Systems**—I'm always up for an interesting discussion 🤖💡
+- ✉️ Reach me at **mhuzaifadev@gmail.com**—I'm just a click away! Let's connect and create something amazing 📩🌐
+- 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
+- 🥅 **2024 Goals:** Settle abroad and workout to make [ViralMe](https://voralme.today) a Unicorn! 💪🎯📚
+- 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
+
+---
+
+
 <div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b></div>
 
 <div align ="center"><h3><b> Developer, Researcher & Entrepreneur </h3></b></div>
