@@ -69,7 +69,8 @@
     </table>
 </div>
 
-<hr>
+<br>
+---
 
 <div align="center">
     <h2><b><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="60"> Connect With Me</b></h2>
@@ -80,4 +81,16 @@
     </p>
 </div>
 
+<br>
+---
+
+
+<div align="center">
+    <h2><i>💡 Fun Facts about me</i></h2>
+    <p>Did you know? I once wrote a Python script to automate making coffee. The script still asks for a coffee break every two hours! ☕</p>
+    <p>Why do Java developers wear glasses? Because they can't C#! 😄</p>
+    <p>I've been in a relationship with Python for 6 years now... My family says it's serious! 🐍❤️</p>
+</div>
+
+---
 
