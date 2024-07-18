@@ -70,7 +70,7 @@
 </div>
 
 <br>
----
+
 
 <div align="center">
     <h2><b><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="60"> Connect With Me</b></h2>
@@ -82,7 +82,6 @@
 </div>
 
 <br>
----
 
 
 <div align="center">
