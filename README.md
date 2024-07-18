@@ -1,3 +1,12 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/profile-banner.png" alt="Profile Banner">
+    <h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b>
+    <h3><b> Developer, Researcher & Entrepreneur </h3></b>
+    <h4><b> In relationship with Python & JS, raising a baby: ViralMe </h4></b>
+    <img src="https://komarev.com/ghpvc/?username=mhuzaifadev">
+</div>
+
+
 <div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b></div>
 
 <div align ="center"><h3><b> Developer, Researcher & Entrepreneur </h3></b></div>
