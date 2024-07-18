@@ -28,6 +28,7 @@
 
 ---
 
+<br>
 <div align="center">
     <h2><i>⚙️ GitHub Analytics</i></h2>
     <img src="https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="90em">
@@ -37,6 +38,7 @@
 
 ---
 
+<br>
 <div align="center">
     <h2><i>📚 Publications</i></h2>
     <table style="width: 70%; border-collapse: collapse;">
@@ -67,7 +69,7 @@
     </table>
 </div>
 
----
+<hr>
 
 <div align="center">
     <h2><b><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="60"> Connect With Me</b></h2>
