@@ -20,6 +20,66 @@
 ---
 
 
+<div align="center">
+    <h2><i>🏆 GitHub Trophies</i></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=15&margin-h=15&no-bg=true&column=6&rank=-C,-?" width="67%">
+</div>
+
+---
+
+<div align="center">
+    <h2><i>⚙️ GitHub Analytics</i></h2>
+    <img src="https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="90em">
+    <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=4.7">
+    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="90em">
+</div>
+
+---
+
+<div align="center">
+    <h2><i>📚 Publications</i></h2>
+    <table style="width: 70%; border-collapse: collapse;">
+        <tr>
+            <th style="padding: 10px; background-color: #f2f2f2;">Publication Type</th>
+            <th style="padding: 10px; background-color: #f2f2f2;">Title</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;">Journal Articles</td>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0</a><br>Accepted: IJESDF-146796 (1751-9128,1751-911X)</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10178481" style="color: #007bff; text-decoration: none;">Enhancing Contextualized GNNs for Multimodal Emotion Recognition: Improving Accuracy and Robustness</a><br>(IMTIC'23 Pakistan)</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://ieeexplore.ieee.org/document/10064663" style="color: #007bff; text-decoration: none;">Analyzing the Classification Performance of DenseNet121 on Pre-processsed MIAS Dataset</a><br>(GCWOT'23 Spain)</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;">E-Book</td>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://www.amazon.com/PyKids-2023-Muhammad-Huzaifa-Shahbaz-ebook/dp/B0C1YBFWZV" style="color: #007bff; text-decoration: none;">PyKids 2023: Python For Kids</a><br>ISBN: 9798390752586</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;">Thesis</td>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://figshare.com/articles/thesis/Mammory_-_Breast_Cancer_Detection_using_AI_on_Mammography_Ultrasonography_-_FYP_Report/22340170" style="color: #007bff; text-decoration: none;">Mammory - Breast Cancer Detection using AI on Mammography & Ultrasonography</a><br>Software Engg Depart. SSUET</td>
+        </tr>
+    </table>
+</div>
+
+---
+
+<div align="center">
+    <h2><b><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="60"> Connect With Me</b></h2>
+    <p>
+        <a href="https://www.mhuzaifa.com"><img src="https://img.shields.io/badge/-mhuzaifa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+        <a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/-M%20Huzaifa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+        <a href="mailto:mhuzaifadev@gmail.com"><img src="https://img.shields.io/badge/-mhuzaifadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    </p>
+</div>
+
+
+
+
 <div align ="center"><h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b></div>
 
 <div align ="center"><h3><b> Developer, Researcher & Entrepreneur </h3></b></div>
