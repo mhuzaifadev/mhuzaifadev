@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/profile-banner.png" alt="Profile Banner">
+    <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/profile-banner.png" >
     <h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b>
     <h3><b> Developer, Researcher & Entrepreneur </h3></b>
     <h4><b> In relationship with Python & JS, raising a baby: ViralMe </h4></b>
