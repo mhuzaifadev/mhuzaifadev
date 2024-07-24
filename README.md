@@ -17,6 +17,8 @@
 - 🥅 **2024 Goals:** Settle abroad and workout to make [ViralMe](https://voralme.today) a Unicorn! 💪🎯📚
 - 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
 
+
+
 ---
 
 <br>
