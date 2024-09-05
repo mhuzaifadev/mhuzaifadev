@@ -30,7 +30,7 @@
 </div>
 
 ---
-
+<!--
 <br>
 <div align="center">
     <h2><i>⚙️ GitHub Analytics</i></h2>
@@ -38,7 +38,7 @@
     <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=4.7">
     <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="90em">
 </div>
-
+-->
 ---
 
 <br>
