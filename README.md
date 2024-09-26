@@ -75,14 +75,20 @@
 <br>
 
 
-<div align="center">
-    <h2><b><img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="60"> Connect With Me</b></h2>
-    <p>
-        <a href="https://www.mhuzaifa.com"><img src="https://img.shields.io/badge/-mhuzaifa.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-        <a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/-M%20Huzaifa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-        <a href="mailto:mhuzaifadev@gmail.com"><img src="https://img.shields.io/badge/-mhuzaifadev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    </p>
-</div>
+
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center">
+    <a href="https://www.linkedin.com/in/mhuzaifadev" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px">
+    </a> <a href="mhuzaifadev@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 8px"></a> 
+    <a href="https://www.reddit.com/user/mhuzaifadev" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 8px"></a> 
+    <a href="https://www.youtube.com/@mhuzaifadev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" style="margin-right: 8px"></a> 
+    <a href="https://www.instagram.com/mhuzaifadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 8px"></a> 
+    <a href="https://x.com/__mhuzaifa" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> 
+    <a href="https://www.facebook.com/mhuzaifadev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 8px"></a> 
+    <a href="https://github.com/mhuzaifadev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 8px"></a>
+</p>
 
 <br>
 
