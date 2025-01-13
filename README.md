@@ -1,9 +1,9 @@
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/profile-banner.png" >
+    <img src="https://raw.githubusercontent.com/mhuzaifadev/mhuzaifadev/main/profile-banner.png">
     <h1><b> Hi there, I'm M. Huzaifa Shahbaz 👋 </h1></b>
-    <h3><b> Developer, Researcher & Entrepreneur </h3></b>
-    <h4><b> In relationship with Python & JS, raising a baby: ViralMe </h4></b>
+    <h3><b> Developer | Researcher | Entrepreneur </h3></b>
+    <h4><b> Empowering ideas with Python, Cloud, and AI-driven solutions </h4></b>
     <img src="https://komarev.com/ghpvc/?username=mhuzaifadev">
 </div>
 
@@ -11,12 +11,12 @@
 
 ---
 
-- 👯 Seeking collaborations with content creators and developers to push boundaries of innovation 🤝🌟
-- 💬 **Ask me anything about AI, Automation, Backend Systems**—I'm always up for an interesting discussion 🤖💡
-- ✉️ Reach me at **mhuzaifadev@gmail.com**—I'm just a click away! Let's connect and create something amazing 📩🌐
-- 💼 Connect with me on LinkedIn: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝🔗
-- 🥅 **2024 Goals:** Settle abroad and workout to make [ViralMe](https://voralme.today) a Unicorn! 💪🎯📚
-- 💡 Available for Individual & Startup Consultation—let's turn your ideas into reality! 💡🚀
+- 👯 **Open to Collaborations**: Looking to connect with developers, researchers, and innovators to create impactful solutions 🌍🚀  
+- 💬 **Ask Me Anything**: AI, Backend Systems, Automation—let's discuss and share ideas! 🤖💡  
+- ✉️ **Let’s Connect**: [mhuzaifadev@gmail.com](mailto:mhuzaifadev@gmail.com)—I’m always up for exciting opportunities 📩  
+- 💼 **LinkedIn**: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝  
+- 🥅 **2025 Goals**: Achieve $20K/m, explore 3 places abroad and build & scale impactful AI solutions while fostering community-driven innovation 🎯  
+- 💡 **Consultation**: Available for startups and individual mentoring to bring ideas to life 💡🌟  
 
 
 
