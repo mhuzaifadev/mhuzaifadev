@@ -51,7 +51,7 @@
         </tr>
         <tr>
             <td style="padding: 10px; border-bottom: 1px solid #ddd;">Journal Articles</td>
-            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0</a><br>Accepted: IJESDF-146796 (1751-9128,1751-911X)</td>
+            <td style="padding: 10px; border-bottom: 1px solid #ddd;"><a href="https://www.inderscience.com/info/inarticle.php?artid=145880" style="color: #007bff; text-decoration: none;">The Future of Third Web: A Role of Blockchain and Web 3.0</a><br>IJESDF-146796 (1751-9128,1751-911X)</td>
         </tr>
         <tr>
             <td style="padding: 10px; border-bottom: 1px solid #ddd;">Conference Proceedings</td>
@@ -74,23 +74,6 @@
 
 <br>
 
----
-
-## 📚 Publications
-
-| Type                    | Title & Details                                                                                                                                                                                                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Journal Article**     | [The Future of Third Web: A Role of Blockchain and Web 3.0](https://www.inderscience.com/info/inarticle.php?artid=145880)  \\                                                                                      |
-|                         | IJESDF-146796 (1751-9128, 1751-911X), DOI: [10.1504/IJESDF.2025.145880](https://doi.org/10.1504/IJESDF.2025.145880)                                                                                                |
-| **Conference Paper**    | [Enhancing Contextualized GNNs for Multimodal Emotion Recognition](https://ieeexplore.ieee.org/document/10178481)  \\                                                                                              |
-|                         | IMTIC '23, Pakistan                                                                                                                                                                                                |
-| **Conference Paper**    | [Classification Performance of DenseNet121 on Pre-processed MIAS Dataset](https://ieeexplore.ieee.org/document/10064663)  \\                                                                                       |
-|                         | GCWOT '23, Spain                                                                                                                                                                                                   |
-| **E-Book**              | [PyKids 2023: Python For Kids](https://www.amazon.com/PyKids-2023-Muhammad-Huzaifa-Shahbaz-ebook/dp/B0C1YBFWZV)  \\                                                                                                |
-|                         | ISBN: 979-8390752586                                                                                                                                                                                               |
-| **Thesis (FYP Report)** | [Mammory: Breast Cancer Detection using AI on Mammography & Ultrasonography](https://figshare.com/articles/thesis/Mammory_-_Breast_Cancer_Detection_using_AI_on_Mammography_Ultrasonography_-_FYP_Report/22340170) |
-
----
 
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center">
