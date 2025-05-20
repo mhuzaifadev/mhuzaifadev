@@ -34,7 +34,7 @@
 <br>
 <div align="center">
     <h2><i>⚙️ GitHub Analytics</i></h2>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=512&card_height=192)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=512&card_height=192" alt="GitHub Streak" /></a>
 </div>
 
 ---
