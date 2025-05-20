@@ -34,9 +34,7 @@
 <br>
 <div align="center">
     <h2><i>⚙️ GitHub Analytics</i></h2>
-    <img src="https://64.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" height="90em">
-    <img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=4.7">
-    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="90em">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=512&card_height=192)](https://git.io/streak-stats)
 </div>
 
 ---
