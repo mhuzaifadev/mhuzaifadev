@@ -8,7 +8,6 @@
 </div>
 
 
-
 ---
 
 - 👯 **Open to Collaborations**: Looking to connect with developers, researchers, and innovators to create impactful solutions 🌍🚀  
