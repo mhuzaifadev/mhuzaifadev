@@ -14,7 +14,7 @@
 - 💬 **Ask Me Anything**: AI, Backend Systems, Automation—let's discuss and share ideas! 🤖💡  
 - ✉️ **Let’s Connect**: [mhuzaifadev@gmail.com](mailto:mhuzaifadev@gmail.com)—I’m always up for exciting opportunities 📩  
 - 💼 **LinkedIn**: [linkedin.com/in/mhuzaifadev](https://linkedin.com/in/mhuzaifadev) 🤝  
-- 🥅 **2025 Goals**: Achieve $20K/m, explore 3 places abroad and build & scale impactful AI solutions while fostering community-driven innovation 🎯  
+- 🥅 **2025 Goals**: Achieve $10K/m, explore 2 places abroad and build & scale impactful AI solutions while fostering community-driven innovation 🎯  
 - 💡 **Consultation**: Available for startups and individual mentoring to bring ideas to life 💡🌟  
 
 
