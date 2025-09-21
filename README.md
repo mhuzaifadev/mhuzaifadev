@@ -17,7 +17,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,flask,django,nodejs,nestjs,postgres,mongodb,mysql,firebase,redis,docker,kubernetes,githubactions,vault,aws,gcp,azure,tensorflow,pytorch,git,github,cloudflare,workers" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,flask,django,nodejs,nestjs,postgres,mongodb,mysql,firebase,redis,docker,kubernetes,githubactions,aws,gcp,azure,tensorflow,pytorch,git,github,cloudflare,workers" />
 </p>
 
 
