@@ -17,11 +17,10 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,flask,django,nodejs,nestjs,postgres,mongodb,mysql,firebase,redis,docker,kubernetes,githubactions,aws,gcp,azure,tensorflow,pytorch,git,github,cloudflare,workers" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,flask,django,nodejs,nestjs,azure,gcp,aws,docker,kubernetes,redis,nginx,kafka,terraform,githubactions,postgres,supabase,mongodb,mysql,firebase,supabase,tensorflow,pytorch,rabbitmq,cloudflare,workers" />
+  </a>
 </p>
-
-
-
 ---
 
 ### 📊 GitHub Analytics  
