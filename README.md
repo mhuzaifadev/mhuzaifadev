@@ -25,7 +25,7 @@
 
 ### 📊 GitHub Analytics  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=600&card_height=220" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=600&card_height=220&mode=weekly" alt="GitHub Streak"/>
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=10&margin-h=10&no-bg=true&column=6" alt="GitHub Trophies"/>
 </div>
