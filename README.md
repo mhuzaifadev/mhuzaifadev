@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **AI Engineer** with 3+ years of experience in backend, cloud, and applied machine learning.  
+- 🔭 **AI Software Engineer** with 4+ years of experience in backend, cloud, and applied machine learning.  
 - 🤝 Open to **collaborations** in AI, automation, and LLM-powered systems.  
-- 🎯 **2025 Goals**: Build scalable AI solutions, explore Europe 🌍, and grow impactful tech ventures.  
+- 🎯 **2026 Goals**: Build scalable AI solutions, explore EMEA 🌍, and grow impactful tech ventures.  
 - 💬 Ask me about **AI workflows, DevOps, or startups** — I love brainstorming ideas!  
 
 ---
