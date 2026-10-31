@@ -1,25 +1,14 @@
-<p align="center">
-  <b>Thanks for stopping by.</b><br/>
-  <img src="https://komarev.com/ghpvc/?username=mhuzaifadev&style=for-the-badge&color=0A2550" alt="Profile Views" width="240"/>
-</p>
+**Thanks for stopping by.**  
+![Profile Views](https://komarev.com/ghpvc/?username=mhuzaifadev&style=for-the-badge&color=0A2550)
 
-<a href="https://mhuzaifa.com">
-  <img src="readme_images/huzaifa-ai-engineer-banner.png" alt="M. Huzaifa Shahbaz: I build AI systems. Then I ship them. AI engineering, applied research and open source." width="100%" />
-</a>
+![M. Huzaifa Shahbaz: I build AI systems. Then I ship them. AI engineering, applied research and open source.](readme_images/huzaifa-ai-engineer-banner.png)
 
-<h1 align="center">Muhammad Huzaifa Shahbaz</h1>
+# Muhammad Huzaifa Shahbaz
 
-<p align="center">
-  <b>Senior AI Software Engineer &nbsp;·&nbsp; Applied AI Researcher &nbsp;·&nbsp; Consultant</b><br/>
-  <sub>AI products, production infrastructure, research and developer education.</sub>
-</p>
+**Senior AI Software Engineer  ·  Applied AI Researcher  ·  Consultant**  
+AI products, production infrastructure, research and developer education.
 
-<p align="center">
-  <a href="https://mhuzaifa.com"><img src="https://img.shields.io/badge/Portfolio-mhuzaifa.com-0A2550?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/LinkedIn-mhuzaifadev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=UG6fYWwAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-  <a href="https://orcid.org/0000-0002-0043-6037"><img src="https://img.shields.io/badge/ORCID-0000--0002--0043--6037-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-</p>
+![](https://img.shields.io/badge/Portfolio-mhuzaifa.com-0A2550?style=for-the-badge&logo=safari&logoColor=white)![](https://img.shields.io/badge/LinkedIn-mhuzaifadev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)![](https://img.shields.io/badge/ORCID-0000--0002--0043--6037-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
 
 ## Hi, I'm Huzaifa
 
@@ -35,16 +24,16 @@ I write research, teach workshops and build things on weekends. Those usually st
 
 Some client work, some personal projects. Click a cover to see the details.
 
-| Preview | Project & my contribution |
-| :---: | :--- |
-| <a href="https://mhuzaifa.com/portfolio/optysleep"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/OptySleep.webp" alt="OptyAI / OptySleep project cover" width="200" /></a> | **OptyAI / OptySleep**<br/>Built the engine that suggests sleep methods based on a person's history, plus the API and caching behind it. Yes, I work on sleep software. The irony is documented.<br/><sub>Python · FastAPI · recommendations</sub><br/>[Case study](https://mhuzaifa.com/portfolio/optysleep) · [App Store](https://apps.apple.com/us/app/optysleep/id6458265948) |
-| <a href="https://mhuzaifa.com/portfolio/ai-voice-call-agent"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/AI-Voice-Call-Agent-Voca.webp" alt="Voca project cover" width="200" /></a> | **Voca**<br/>Built AI calling workflows, campaign tools and CRM connections so teams can manage outreach in one place.<br/><sub>Python · FastAPI · voice AI</sub><br/>[Case study](https://mhuzaifa.com/portfolio/ai-voice-call-agent) · [Website](https://voca.codefied.online) |
-| <a href="https://mhuzaifa.com/portfolio/staging-pro"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/StagingPro.webp" alt="Staging Pro 2.0 project cover" width="200" /></a> | **Staging Pro 2.0**<br/>Built the backend that keeps race dashboards and connected devices in sync, including live updates and race control.<br/><sub>Django · WebSockets · IoT</sub><br/>[Case study](https://mhuzaifa.com/portfolio/staging-pro) · [App Store](https://apps.apple.com/us/app/staging-pro/id6503903450) |
-| <a href="https://mhuzaifa.com/portfolio/vikingrag"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/VikingRAG.webp" alt="VikingRAG SDK project cover" width="200" /></a> | **VikingRAG SDK**<br/>Built an independent Python SDK for searching structured documents while keeping their sections and source evidence intact. Inspired by Gao et al.'s VikingRAG paper.<br/><sub>Python · PostgreSQL · pgvector</sub><br/>[Code](https://github.com/mhuzaifadev/VikingRAG) · [PyPI](https://pypi.org/project/vikingrag/) · [Evaluation](https://github.com/mhuzaifadev/VikingRAG/blob/main/docs/EVALUATION.md) |
-| <a href="https://mhuzaifa.com/portfolio/viralme-studio"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/ViralMe-Studio.webp" alt="ViralMe Studio project cover" width="200" /></a> | **ViralMe Studio**<br/>Built browser-based video editing and rendering workflows, with AI-assisted effects and background processing.<br/><sub>Remotion · Node.js · Python</sub><br/>[Case study](https://mhuzaifa.com/portfolio/viralme-studio) · [Website](https://viralme.studio) |
-| <a href="https://mhuzaifa.com/portfolio/ai-legal-assistant"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/AI-Legal-Assistant.webp" alt="AI Legal Assistant project cover" width="200" /></a> | **AI Legal Assistant**<br/>Built document search and question-answering tools that help users find relevant legal information with source citations.<br/><sub>Gemini · LangChain · MongoDB</sub><br/>[Case study](https://mhuzaifa.com/portfolio/ai-legal-assistant) |
-| <a href="https://mhuzaifa.com/portfolio/pseudocompiler"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/PseudoCompiler.webp" alt="PseudoCompiler project cover" width="200" /></a> | **PseudoCompiler**<br/>Built a tool that translated AQA pseudocode into Python, ran it and streamed the output. A past project for making code easier to learn.<br/><sub>Python · FastAPI · WebSockets</sub><br/>[Case study](https://mhuzaifa.com/portfolio/pseudocompiler) · [Demo video](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/PortfolioVideos/pseudocompiler.webm) |
-| <a href="https://mhuzaifa.com/portfolio/removebg"><img src="https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/RemoveBG2.webp" alt="Remove BG project cover" width="200" /></a> | **Remove BG**<br/>Built a free tool that removes image backgrounds. For when you like the photo, just not everything standing behind you.<br/><sub>U2Net · FastAPI · PWA</sub><br/>[Case study](https://mhuzaifa.com/portfolio/removebg) · [Try it](https://removebg.mhuzaifa.com) |
+| Preview                                                                                                                    | Project & my contribution                                                                                                                                                                                                                                                                                                                                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![OptyAI / OptySleep project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/OptySleep.webp)          | **OptyAI / OptySleep** Built the engine that suggests sleep methods based on a person's history, plus the API and caching behind it. Yes, I work on sleep software. The irony is documented. Python · FastAPI · recommendations [Case study](https://mhuzaifa.com/portfolio/optysleep) · [App Store](https://apps.apple.com/us/app/optysleep/id6458265948)                                                  |
+| ![Voca project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/AI-Voice-Call-Agent-Voca.webp)         | **Voca** Built AI calling workflows, campaign tools and CRM connections so teams can manage outreach in one place. Python · FastAPI · voice AI [Case study](https://mhuzaifa.com/portfolio/ai-voice-call-agent) · [Website](https://voca.codefied.online)                                                                                                                                                   |
+| ![Staging Pro 2.0 project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/StagingPro.webp)            | **Staging Pro 2.0** Built the backend that keeps race dashboards and connected devices in sync, including live updates and race control. Django · WebSockets · IoT [Case study](https://mhuzaifa.com/portfolio/staging-pro) · [App Store](https://apps.apple.com/us/app/staging-pro/id6503903450)                                                                                                           |
+| ![VikingRAG SDK project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/VikingRAG.webp)               | **VikingRAG SDK** Built an independent Python SDK for searching structured documents while keeping their sections and source evidence intact. Inspired by Gao et al.'s VikingRAG paper. Python · PostgreSQL · pgvector [Code](https://github.com/mhuzaifadev/VikingRAG) · [PyPI](https://pypi.org/project/vikingrag/) · [Evaluation](https://github.com/mhuzaifadev/VikingRAG/blob/main/docs/EVALUATION.md) |
+| ![ViralMe Studio project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/ViralMe-Studio.webp)         | **ViralMe Studio** Built browser-based video editing and rendering workflows, with AI-assisted effects and background processing. Remotion · Node.js · Python [Case study](https://mhuzaifa.com/portfolio/viralme-studio) · [Website](https://viralme.studio)                                                                                                                                               |
+| ![AI Legal Assistant project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/AI-Legal-Assistant.webp) | **AI Legal Assistant** Built document search and question-answering tools that help users find relevant legal information with source citations. Gemini · LangChain · MongoDB [Case study](https://mhuzaifa.com/portfolio/ai-legal-assistant)                                                                                                                                                               |
+| ![PseudoCompiler project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/PseudoCompiler.webp)         | **PseudoCompiler** Built a tool that translated AQA pseudocode into Python, ran it and streamed the output. A past project for making code easier to learn. Python · FastAPI · WebSockets [Case study](https://mhuzaifa.com/portfolio/pseudocompiler) · [Demo video](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/PortfolioVideos/pseudocompiler.webm)                                               |
+| ![Remove BG project cover](https://pub-dad81fab22374f8d9876aa00f95e9802.r2.dev/Portfolio/RemoveBG2.webp)                   | **Remove BG** Built a free tool that removes image backgrounds. For when you like the photo, just not everything standing behind you. U2Net · FastAPI · PWA [Case study](https://mhuzaifa.com/portfolio/removebg) · [Try it](https://removebg.mhuzaifa.com)                                                                                                                                                 |
 
 [More projects and technical details →](https://mhuzaifa.com/portfolio)
 
@@ -90,21 +79,15 @@ I teach AI and software engineering through workshops, talks and mentoring. I've
 
 ## Tech stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,flask,django,nodejs,azure,gcp,aws,docker,kubernetes,redis,nginx,kafka,terraform,githubactions,postgres,supabase,mongodb,mysql,firebase,tensorflow,pytorch,rabbitmq,cloudflare" />
-  </a>
-</p>
+![](https://skillicons.dev/icons?i=python,js,ts,fastapi,flask,django,nodejs,azure,gcp,aws,docker,kubernetes,redis,nginx,kafka,terraform,githubactions,postgres,supabase,mongodb,mysql,firebase,tensorflow,pytorch,rabbitmq,cloudflare)
 
 **AI / LLM layer** — LangChain · LangGraph · HuggingFace · Ollama · OpenAI · ElevenLabs · Retell AI · Whisper · YOLO · SAM2 · PEFT/LoRA · Unsloth
 
 ## GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=600&card_height=220&mode=weekly" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=10&margin-h=10&no-bg=true&column=6" alt="GitHub Trophies"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=600&card_height=220&mode=weekly)  
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=10&margin-h=10&no-bg=true&column=6)
 
 ## Outside the build
 
@@ -116,10 +99,4 @@ I teach AI and software engineering through workshops, talks and mentoring. I've
 
 Building something useful, planning a workshop or exploring a research idea? [Tell me about it](mailto:mhuzaifadev@gmail.com). Plain English is welcome; a 40-slide pitch deck is optional.
 
-<p align="center">
-  <a href="mailto:mhuzaifadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mhuzaifadev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/__mhuzaifa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://youtube.com/@mhuzaifadev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://instagram.com/mhuzaifadev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
