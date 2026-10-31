@@ -140,13 +140,13 @@ I teach AI and software engineering through workshops, talks and mentoring. I've
 
 
 
-## Outside the build
+## Personality Check
 
-- Python is usually my first choice. Occasionally, it gets a say too.
-- I like explanations that make sense without opening twelve browser tabs.
-- “One last change” is a phrase I'm learning to use more responsibly.
-- I keep a rubber duck on the desk. It has heard things my commit messages will never admit.
-- Dark mode is on. The sleep schedule did not get the memo.
+- Python is my first choice. I know other languages too, but I prefer being happy.
+- Tony Stark had JARVIS. I've got Claude, a MacBook Pro, and unreasonable confidence.
+- I fly planes for fun. In simulators, obviously. The real ones are still a bit expensive.
+- I'm pretty good with women. It's the production servers that keep playing hard to get.
+- I use dark mode for everything. Except my future. I've got expensive plans.
 
 ## Let's connect
 
