@@ -34,13 +34,19 @@
 
 ---
 
-### Hi, I'm Huzaifa
+## Hey, I'm Huzaifa 👋
 
-I build AI products and the software behind them. Things that search documents, hold conversations, make recommendations and keep data moving when lots of people show up at once.
+I build AI products, write a lot of Python, and occasionally convince computers to do things they weren't supposed to do.
 
-At **[Digital Dividend Global](https://digital-dividend.com)**, I work on AI systems and backends. I also help teams across the US, UK, GCC and Europe turn their ideas into working products.
+I've worked on everything from AI that talks back to you (politely, most of the time) to systems that search through mountains of documents, recommend things, and handle thousands of users without catching fire. That's the goal, anyway.
 
-I write research, teach workshops and build things on weekends. Those usually start with “this should be a small project”. GitHub has the evidence.
+Somewhere along the way, I've helped teams across the US, UK, GCC, and Europe turn their *"what if we built this?"* ideas into actual products. Turns out the hardest part isn't always the AI. Sometimes it's explaining why a button takes three days.
+
+I also publish research, teach workshops, contribute to open source, and build random things on weekends.
+
+Most of my personal projects begin with **"This should only take a few hours."**
+
+Anyway, welcome to my GitHub. You can see how that worked out.
 
 
 
