@@ -23,10 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://mhuzaifa.com"><img height="20" src="https://img.shields.io/badge/Portfolio-0A2550?style=flat&amp;logo=safari&amp;logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mhuzaifadev"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/citations?user=UG6fYWwAAAAJ"><img height="20" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
-  <a href="https://orcid.org/0000-0002-0043-6037"><img height="20" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&amp;logo=orcid&amp;logoColor=white" alt="ORCID"></a>
+  <a href="https://mhuzaifa.com"><img src="readme_images/icons/portfolio.svg" width="28" height="28" alt="Portfolio"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mhuzaifadev"><img src="readme_images/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=UG6fYWwAAAAJ"><img src="readme_images/icons/googlescholar.svg" width="28" height="28" alt="Google Scholar"></a>
+  &nbsp;&nbsp;
+  <a href="https://orcid.org/0000-0002-0043-6037"><img src="readme_images/icons/orcid.svg" width="28" height="28" alt="ORCID"></a>
 </p>
 
 ---
@@ -41,9 +44,16 @@ I write research, teach workshops and build things on weekends. Those usually st
 
 
 
-![Explore my portfolio](https://img.shields.io/badge/Explore_my_portfolio-%E2%86%92-0A2550?style=for-the-badge)
- 
-![Professional background](https://img.shields.io/badge/Professional_background-%E2%86%92-0A2550?style=for-the-badge)
+<p align="center">
+  <a href="https://mhuzaifa.com/portfolio"><img src="readme_images/buttons/portfolio.svg" width="210" height="40" alt="Explore my portfolio"></a>
+  &nbsp;
+  <a href="https://mhuzaifa.com/resume">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="readme_images/buttons/background-dark.svg">
+      <img src="readme_images/buttons/background.svg" width="210" height="40" alt="Professional background">
+    </picture>
+  </a>
+</p>
 
 
 
@@ -129,6 +139,8 @@ I teach AI and software engineering through workshops, talks and mentoring. I've
 - Python is usually my first choice. Occasionally, it gets a say too.
 - I like explanations that make sense without opening twelve browser tabs.
 - “One last change” is a phrase I'm learning to use more responsibly.
+- I keep a rubber duck on the desk. It has heard things my commit messages will never admit.
+- Dark mode is on. The sleep schedule did not get the memo.
 
 ## Let's connect
 
@@ -136,8 +148,19 @@ Building something useful, planning a workshop or exploring a research idea? [Te
 
 
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<p align="center">
+  <a href="mailto:mhuzaifadev@gmail.com"><img src="readme_images/icons/gmail.svg" width="28" height="28" alt="Gmail"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mhuzaifadev"><img src="readme_images/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/__mhuzaifa">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="readme_images/icons/x-light.svg">
+      <img src="readme_images/icons/x.svg" width="28" height="28" alt="X">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtube.com/@mhuzaifadev"><img src="readme_images/icons/youtube.svg" width="28" height="28" alt="YouTube"></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/mhuzaifadev"><img src="readme_images/icons/instagram.svg" width="28" height="28" alt="Instagram"></a>
+</p>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="40" viewBox="0 0 210 40" role="img">
+  <title>Professional background</title>
+  <rect x="1" y="1" width="208" height="38" rx="19" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+  <text x="96" y="25" text-anchor="middle" fill="#d0d7de" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">Background</text>
+  <path d="M158 14.5l6 5.5-6 5.5" fill="none" stroke="#d0d7de" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 20h14" fill="none" stroke="#d0d7de" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
