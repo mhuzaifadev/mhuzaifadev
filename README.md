@@ -4,7 +4,6 @@
   <strong>Thanks for stopping by.</strong>
 </p> -->
 
-<h1 align="center">Muhammad Huzaifa Shahbaz</h1>
 
 <p align="center">
   <img src="readme_images/huzaifa-ai-engineer-banner.png" alt="M. Huzaifa Shahbaz: I build AI systems. Then I ship them. AI engineering, applied research and open source.">
@@ -14,6 +13,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhuzaifadev&amp;style=for-the-badge&amp;color=0A2550" alt="Profile Views">
 </p>
+
+
+<h1 align="center">Muhammad Huzaifa Shahbaz</h1>
 
 <p align="center">
   <strong>Senior AI Software Engineer &nbsp;·&nbsp; Applied AI Researcher &nbsp;·&nbsp; Consultant</strong><br>
