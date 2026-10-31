@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mhuzaifa.com"><img src="readme_images/icons/portfolio.svg" width="28" height="28" alt="Portfolio"></a>
+  <a href="https://mhuzaifa.com"><img src="readme_images/icons/mhuzaifa.svg" width="158" height="28" alt="mhuzaifa.com"></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mhuzaifadev"><img src="readme_images/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"></a>
   &nbsp;&nbsp;

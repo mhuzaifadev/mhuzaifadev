@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="28" viewBox="0 0 158 28" role="img">
+  <title>mhuzaifa.com</title>
+  <defs>
+    <linearGradient id="site" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A3E78"/>
+      <stop offset="100%" stop-color="#0A2550"/>
+    </linearGradient>
+  </defs>
+  <rect width="158" height="28" rx="14" fill="url(#site)"/>
+  <rect x="0.75" y="0.75" width="156.5" height="26.5" rx="13.25" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+  <g fill="none" stroke="#ffffff" stroke-width="1.15" stroke-linecap="round">
+    <circle cx="16" cy="14" r="5.5"/>
+    <ellipse cx="16" cy="14" rx="2.4" ry="5.5"/>
+    <path d="M10.6 14h10.8M11.4 11.6h9.2M11.4 16.4h9.2"/>
+  </g>
+  <text x="90" y="14.5" text-anchor="middle" dominant-baseline="central" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">mhuzaifa.com</text>
+</svg>
