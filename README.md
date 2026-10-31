@@ -1,16 +1,21 @@
-**Thanks for stopping by.**  
+
+
+**Thanks for stopping by.**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mhuzaifadev&style=for-the-badge&color=0A2550)
 
 ![M. Huzaifa Shahbaz: I build AI systems. Then I ship them. AI engineering, applied research and open source.](readme_images/huzaifa-ai-engineer-banner.png)
 
 # Muhammad Huzaifa Shahbaz
 
+
+
 **Senior AI Software Engineer  ·  Applied AI Researcher  ·  Consultant**  
 AI products, production infrastructure, research and developer education.
 
 ![](https://img.shields.io/badge/Portfolio-mhuzaifa.com-0A2550?style=for-the-badge&logo=safari&logoColor=white)![](https://img.shields.io/badge/LinkedIn-mhuzaifadev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)![](https://img.shields.io/badge/ORCID-0000--0002--0043--6037-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
 
-## Hi, I'm Huzaifa
+### Hi, I'm Huzaifa
 
 I build AI products and the software behind them. Things that search documents, hold conversations, make recommendations and keep data moving when lots of people show up at once.
 
@@ -18,7 +23,13 @@ At **[Digital Dividend Global](https://digital-dividend.com)**, I work on AI sys
 
 I write research, teach workshops and build things on weekends. Those usually start with “this should be a small project”. GitHub has the evidence.
 
-[Explore my portfolio →](https://mhuzaifa.com/portfolio) · [Professional background →](https://mhuzaifa.com/resume)
+
+
+![Explore my portfolio](https://img.shields.io/badge/Explore_my_portfolio-%E2%86%92-0A2550?style=for-the-badge)
+ 
+![Professional background](https://img.shields.io/badge/Professional_background-%E2%86%92-0A2550?style=for-the-badge)
+
+
 
 ## A few things I've built
 
@@ -85,9 +96,13 @@ I teach AI and software engineering through workshops, talks and mentoring. I've
 
 ## GitHub activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=600&card_height=220&mode=weekly)  
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mhuzaifadev&margin-w=10&margin-h=10&no-bg=true&column=6)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mhuzaifadev&theme=transparent&border_radius=10&card_width=600&card_height=220&mode=weekly)
+
+![GitHub Trophies](https://github-trophies.devomb.com/?username=mhuzaifadev&margin-w=10&margin-h=10&no-bg=true&column=6&theme=flat)
+
+
 
 ## Outside the build
 
@@ -99,4 +114,10 @@ I teach AI and software engineering through workshops, talks and mentoring. I've
 
 Building something useful, planning a workshop or exploring a research idea? [Tell me about it](mailto:mhuzaifadev@gmail.com). Plain English is welcome; a 40-slide pitch deck is optional.
 
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
