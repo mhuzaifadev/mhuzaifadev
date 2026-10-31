@@ -4,12 +4,12 @@
   <strong>Thanks for stopping by.</strong>
 </p> -->
 
+<h1 align="center">Muhammad Huzaifa Shahbaz</h1>
 
 <p align="center">
   <img src="readme_images/huzaifa-ai-engineer-banner.png" alt="M. Huzaifa Shahbaz: I build AI systems. Then I ship them. AI engineering, applied research and open source.">
 </p>
 
-<h1 align="center">Muhammad Huzaifa Shahbaz</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhuzaifadev&amp;style=for-the-badge&amp;color=0A2550" alt="Profile Views">
@@ -26,6 +26,8 @@
   <a href="https://scholar.google.com/citations?user=UG6fYWwAAAAJ"><img height="20" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0000-0002-0043-6037"><img height="20" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&amp;logo=orcid&amp;logoColor=white" alt="ORCID"></a>
 </p>
+
+---
 
 ### Hi, I'm Huzaifa
 
